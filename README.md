@@ -1,10 +1,10 @@
-# my-api-laravel
+# api-laravel-postgresql
 API Example using Laravel and PostgreSQL
 
 ## Install
 ```shell 
-git clone https://github.com/01viniciusmelo/my-api-laravel.git
-cd my-api-laravel
+git clone https://github.com/01viniciusmelo/api-laravel-postgresql.git
+cd api-laravel-postgresql
 composer install
 ```
 
